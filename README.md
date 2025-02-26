@@ -1,7 +1,10 @@
 # Café Management System
 
 ## Overview
-The **Café Management System** is a backend application designed to streamline café operations, including **order processing, billing, and inventory management**. Built using **Java, JDBC, SQL, Object-Oriented Programming (OOP), Data Structures, and the MVC Pattern**, it provides a structured and efficient approach to café management.
+
+        The **Café Management System** is a backend application designed to streamline café operations, including **order processing, billing, and inventory management**. 
+        
+        Built using **Java, JDBC, SQL, Object-Oriented Programming (OOP), Data Structures, and the MVC Pattern**, it provides a structured and efficient approach to café management.
 
 ## Features
 ✅ **Order Management** - Customers can place, modify, and cancel orders.
@@ -14,12 +17,20 @@ The **Café Management System** is a backend application designed to streamline 
 
 ✅ **Structured Design** - Built using OOP principles and the MVC pattern.
 
+
+
 ## Tech Stack
+
 - Java
+
 - JDBC
+  
 - SQL
+
 - Object-Oriented Programming (OOP)
+
 - Data Structures
+
 - MVC Pattern
 
 
